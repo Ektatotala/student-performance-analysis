@@ -7,6 +7,7 @@ This project analyzes student performance across subjects using Python and visua
 - Identified top-performing student based on average marks
 - Compared subject-wise performance
 - Highlighted strengths and weaknesses using charts
+- Used data visualization to identify performance trends and student strengths
 
 ##  Tools Used
 - Python (Pandas)
