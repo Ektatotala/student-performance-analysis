@@ -16,5 +16,8 @@ This project analyzes student performance across subjects using Python and visua
 ## Files
 - student_performance_analysis.ipynb → analysis notebook
 
+## Visualization
+![Student Performance](studentmarks.png)
+
 ## Conclusion
 This project demonstrates how data analysis can help evaluate academic performance effectively.
